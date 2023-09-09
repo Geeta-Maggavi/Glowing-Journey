@@ -1,1 +1,1 @@
-# Glowing-Journey
+# Python Project
